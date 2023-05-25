@@ -1,5 +1,5 @@
 const Page = () => {
-	return <h1>Hello, Next.js!</h1>;
+	return;
 };
 
 module.exports = Page;
